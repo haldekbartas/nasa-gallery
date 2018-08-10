@@ -1,26 +1,17 @@
-# nasa
+# Nasa gallery app
 
-## Project setup
+## Preview online
+
+live preview: https://bit.ly/2vxUoUo
+
+## Preview locally
+1. Go to app directory.
+2. Install packages.
 ```
 npm install
 ```
-
-### Compiles and hot-reloads for development
+3. Run local server. 
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
+4. Go to: http://localhost:8080/ in your browser.
