@@ -1,5 +1,7 @@
 # Nasa gallery app
 
+The project created during Vue.js online course.
+
 ## Preview online
 
 live preview: https://bit.ly/2vxUoUo
