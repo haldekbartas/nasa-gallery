@@ -1,6 +1,6 @@
 # Nasa gallery app
 
-The project created during Vue.js online course.
+The project created during Vue.js online course
 
 ## Preview online
 
